@@ -1,0 +1,30 @@
+# Standards: 1.2
+---
+- name: Check existing install
+  register: gomplate_version_check
+  failed_when: False
+  changed_when: False
+  check_mode: False
+  shell: /usr/bin/gomplate --version 2>&1
+  tags:
+    - gomplate
+
+- name: Fact version change
+  set_fact:
+    gomplate_version_changed: "{{ gomplate_version_check.rc != 0 or (gomplate_version_check.stdout_lines is defined and gomplate_version not in gomplate_version_check.stdout_lines[0]) | bool }}"
+  tags:
+    - gomplate
+
+- name: Download release binary
+  when:
+    - gomplate_version_changed
+  get_url:
+    url: "{{ gomplate_download }}"
+    dest: /usr/bin/gomplate
+    owner: root
+    group: root
+    mode: o=rwx,g=rx,o=rx
+  tags:
+    - gomplate
+
+...
