@@ -5,7 +5,7 @@
 [![Readme Workflow](https://github.com/rolehippie/gomplate/actions/workflows/readme.yml/badge.svg)](https://github.com/rolehippie/gomplate/actions/workflows/readme.yml)
 [![Galaxy Workflow](https://github.com/rolehippie/gomplate/actions/workflows/galaxy.yml/badge.svg)](https://github.com/rolehippie/gomplate/actions/workflows/galaxy.yml)
 [![License: Apache-2.0](https://img.shields.io/github/license/rolehippie/gomplate)](https://github.com/rolehippie/gomplate/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/ansible/role/61887)](https://galaxy.ansible.com/rolehippie/gomplate)
+[![Ansible Role](https://img.shields.io/badge/role-rolehippie.gomplate-blue)](https://galaxy.ansible.com/rolehippie/gomplate)
 
 Ansible role to install gomplate template processor.
 
@@ -15,7 +15,6 @@ Building and improving this Ansible role have been sponsored by my current and p
 
 ## Table of content
 
-- [Requirements](#requirements)
 - [Default Variables](#default-variables)
   - [gomplate_arch](#gomplate_arch)
   - [gomplate_download](#gomplate_download)
@@ -26,11 +25,6 @@ Building and improving this Ansible role have been sponsored by my current and p
 - [Author](#author)
 
 ---
-
-## Requirements
-
-- Minimum Ansible version: `2.10`
-
 
 ## Default Variables
 
