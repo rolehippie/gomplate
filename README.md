@@ -61,7 +61,7 @@ Version of the release to install
 #### Default value
 
 ```YAML
-gomplate_version: 3.11.6
+gomplate_version: 3.11.7
 ```
 
 ## Discovered Tags
