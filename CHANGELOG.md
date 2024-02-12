@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.0](https://github.com/rolehippie/gomplate/compare/v1.0.4...v2.0.0) (2024-02-12)
+
+
+### Features
+
+* drop support for ubuntu 18.04 ([9a9bc9d](https://github.com/rolehippie/gomplate/commit/9a9bc9df40825239e097a867d35b18c95889009e))
+* used full qualified collection names ([786ea7f](https://github.com/rolehippie/gomplate/commit/786ea7f8bdac46ccbdf569b740d19128f326464e))
+
 ## [1.0.4](https://github.com/rolehippie/gomplate/compare/v1.0.3...v1.0.4) (2024-01-29)
 
 
