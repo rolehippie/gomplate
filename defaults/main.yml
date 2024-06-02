@@ -1,7 +1,7 @@
 ---
 # @var gomplate_version:description: Version of the release to install
 # renovate: datasource=github-releases depName=hairyhenderson/gomplate
-gomplate_version: 3.11.7
+gomplate_version: 3.11.8
 
 # @var gomplate_arch:description: Architecture of the static binary
 gomplate_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' else 'amd64' }}"
