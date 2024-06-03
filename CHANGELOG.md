@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/rolehippie/gomplate/compare/v2.0.0...v2.0.1) (2024-06-03)
+
+
+### Bugfixes
+
+* **deps:** update dependency hairyhenderson/gomplate to v3.11.8 ([85ce7af](https://github.com/rolehippie/gomplate/commit/85ce7af805b33fff45359d41afc536cd66b7e80b))
+
 ## [2.0.0](https://github.com/rolehippie/gomplate/compare/v1.0.4...v2.0.0) (2024-02-12)
 
 
