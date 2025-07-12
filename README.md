@@ -1,4 +1,4 @@
-# gomplate
+# workspace
 
 [![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/gomplate)
 [![General Workflow](https://github.com/rolehippie/gomplate/actions/workflows/general.yml/badge.svg)](https://github.com/rolehippie/gomplate/actions/workflows/general.yml)
@@ -50,7 +50,8 @@ URL to the archive of the release to install
 #### Default value
 
 ```YAML
-gomplate_download: https://github.com/hairyhenderson/gomplate/releases/download/v{{
+gomplate_download: 
+  https://github.com/hairyhenderson/gomplate/releases/download/v{{ 
   gomplate_version }}/gomplate_linux-{{ gomplate_arch }}
 ```
 
@@ -61,13 +62,12 @@ Version of the release to install
 #### Default value
 
 ```YAML
-gomplate_version: 4.3.2
+gomplate_version: 4.3.3
 ```
 
 ## Discovered Tags
 
 **_gomplate_**
-
 
 ## Dependencies
 
