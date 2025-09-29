@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.0](https://github.com/rolehippie/gomplate/compare/v3.3.3...v3.4.0) (2025-09-29)
+
+
+### Features
+
+* apply new repo structure and update linting and integrate noble ([76bdfbe](https://github.com/rolehippie/gomplate/commit/76bdfbea4558eff7506a9324310c34ca79f0cc7b))
+
 ## [3.3.3](https://github.com/rolehippie/gomplate/compare/v3.3.2...v3.3.3) (2025-07-14)
 
 
