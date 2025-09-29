@@ -4,7 +4,7 @@
 gomplate_version: 4.3.3
 
 # @var gomplate_arch:description: Architecture of the static binary
-gomplate_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' else 'amd64' }}"
+gomplate_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture == 'arm64' else 'amd64' }}"
 
 # @var gomplate_download:description: URL to the archive of the release to install
 gomplate_download: "https://github.com/hairyhenderson/gomplate/releases/download/v{{ gomplate_version }}/gomplate_linux-{{ gomplate_arch }}"
