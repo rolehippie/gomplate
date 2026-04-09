@@ -40,8 +40,7 @@ Architecture of the static binary
 #### Default value
 
 ```YAML
-gomplate_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture
-  == 'arm64' else 'amd64' }}"
+gomplate_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture == 'arm64' else 'amd64' }}"
 ```
 
 ### gomplate_download
@@ -51,9 +50,7 @@ URL to the archive of the release to install
 #### Default value
 
 ```YAML
-gomplate_download: 
-  https://github.com/hairyhenderson/gomplate/releases/download/v{{ 
-  gomplate_version }}/gomplate_linux-{{ gomplate_arch }}
+gomplate_download: https://github.com/hairyhenderson/gomplate/releases/download/v{{ gomplate_version }}/gomplate_linux-{{ gomplate_arch }}
 ```
 
 ### gomplate_version
