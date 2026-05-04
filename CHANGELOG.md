@@ -1,5 +1,28 @@
 # Changelog
 
+## [4.1.0](https://github.com/rolehippie/gomplate/compare/v4.0.0...v4.1.0) (2026-05-04)
+
+### Dependencies
+
+* **minor:** update dependency hairyhenderson/gomplate to v5.1.0 ([#55](https://github.com/rolehippie/gomplate/issues/55)) ([d7ffea4](https://github.com/rolehippie/gomplate/commit/d7ffea4f086b830a19929afcc6b473c9093f8402))
+
+### Miscellaneous
+
+* **flake:** updated lockfile [skip ci] ([65a4a1c](https://github.com/rolehippie/gomplate/commit/65a4a1c8bc4ad0d9ed152cc3554e83db71907fcf))
+* **flake:** updated lockfile [skip ci] ([ffa6d40](https://github.com/rolehippie/gomplate/commit/ffa6d405debf8e0283dff695ef4aaaf46274bacd))
+* **flake:** updated lockfile [skip ci] ([1b1b98f](https://github.com/rolehippie/gomplate/commit/1b1b98fdedfadb2919e6ff1d925c808c1c7a3c13))
+* **flake:** updated lockfile [skip ci] ([4ea2c50](https://github.com/rolehippie/gomplate/commit/4ea2c50cbbef9ab5dcc6471a0a40de8a54b9d008))
+* **flake:** updated lockfile [skip ci] ([5d4b5b3](https://github.com/rolehippie/gomplate/commit/5d4b5b3936359aa0ee5de841021a40f5a974f8ae))
+* **flake:** updated lockfile [skip ci] ([b390d4b](https://github.com/rolehippie/gomplate/commit/b390d4b7e46cf5119ac8adb683e3c0432ad4a065))
+* **flake:** updated lockfile [skip ci] ([97dda8a](https://github.com/rolehippie/gomplate/commit/97dda8a839dcfed7d007a8dfd1463f3fbe58d703))
+* **flake:** updated lockfile [skip ci] ([8262f5e](https://github.com/rolehippie/gomplate/commit/8262f5e477ee0efeea352a840a74853b25811ad5))
+* **flake:** updated lockfile [skip ci] ([c88b4de](https://github.com/rolehippie/gomplate/commit/c88b4def2d17eacbeffecc4536bb116fc437c5d9))
+* **flake:** updated lockfile [skip ci] ([fa01160](https://github.com/rolehippie/gomplate/commit/fa0116079ca0b020da81852348281230620dac57))
+* **flake:** updated lockfile [skip ci] ([899d7d7](https://github.com/rolehippie/gomplate/commit/899d7d757ab91cd4e820a03f3ae6fcd936dc51a4))
+* **flake:** updated lockfile [skip ci] ([4281b9c](https://github.com/rolehippie/gomplate/commit/4281b9c6ed36e69c9282449900cf9bd3c56d3211))
+* **flake:** updated lockfile [skip ci] ([5381297](https://github.com/rolehippie/gomplate/commit/538129777955cbce5d088e3c70b0c296638fbe0e))
+* **flake:** updated lockfile [skip ci] ([d7bbeaa](https://github.com/rolehippie/gomplate/commit/d7bbeaac4893f1a7b23ddb0458e62ea3faa23eda))
+
 ## [4.0.0](https://github.com/rolehippie/gomplate/compare/v3.4.0...v4.0.0) (2026-01-26)
 
 ### Dependencies
