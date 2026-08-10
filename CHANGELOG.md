@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.4.0](https://github.com/rolehippie/gomplate/compare/v4.3.0...v4.4.0) (2026-08-10)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-doctor to v8.4.0 ([#62](https://github.com/rolehippie/gomplate/issues/62)) ([a1c4e47](https://github.com/rolehippie/gomplate/commit/a1c4e47be4539d6c7c183822dcb5fefece740d16))
+* **patch:** update dependency python to v3.14.7 ([#60](https://github.com/rolehippie/gomplate/issues/60)) ([c04e55f](https://github.com/rolehippie/gomplate/commit/c04e55f734d7257771e08c627d4deeabd6a6b10b))
+
 ## [4.3.0](https://github.com/rolehippie/gomplate/compare/v4.2.0...v4.3.0) (2026-07-27)
 
 ## [4.2.0](https://github.com/rolehippie/gomplate/compare/v4.1.0...v4.2.0) (2026-07-13)
