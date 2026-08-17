@@ -1,5 +1,14 @@
 # Changelog
 
+## [4.5.0](https://github.com/rolehippie/gomplate/compare/v4.4.0...v4.5.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-lint to v26.8.0 ([#65](https://github.com/rolehippie/gomplate/issues/65)) ([4af6a54](https://github.com/rolehippie/gomplate/commit/4af6a54a47da3a128e871a44610eab00b0d597f2))
+* **minor:** update dependency pipx:molecule to v26.8.0 ([#66](https://github.com/rolehippie/gomplate/issues/66)) ([5c794f7](https://github.com/rolehippie/gomplate/commit/5c794f7c37e0494444444c5e4fc00d6ac40e578b))
+* **patch:** update dependency pipx:ansible-core to v2.21.3 ([#63](https://github.com/rolehippie/gomplate/issues/63)) ([c9f8f56](https://github.com/rolehippie/gomplate/commit/c9f8f56c6b4c66591bb1ad07e658f74cb1fe56d4))
+* **patch:** update dependency pre-commit to v4.6.2 ([#64](https://github.com/rolehippie/gomplate/issues/64)) ([e43ec73](https://github.com/rolehippie/gomplate/commit/e43ec732848c4fd9b323ced2abb6afb47a4f35de))
+
 ## [4.4.0](https://github.com/rolehippie/gomplate/compare/v4.3.0...v4.4.0) (2026-08-10)
 
 ### Dependencies
