@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.6.0](https://github.com/rolehippie/gomplate/compare/v4.5.1...v4.6.0) (2026-09-07)
+
+### Features
+
+* add separate requirements for molecule run ([03a444f](https://github.com/rolehippie/gomplate/commit/03a444f19bcb098cdfa8cbce19a23b3354c83448))
+* use new required facts as attributes ([fb77102](https://github.com/rolehippie/gomplate/commit/fb771028512d0e17ee448b340a63b994b2c09cc6))
+
 ## [4.5.1](https://github.com/rolehippie/gomplate/compare/v4.5.0...v4.5.1) (2026-08-31)
 
 ### Dependencies
