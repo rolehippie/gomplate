@@ -1,5 +1,24 @@
 # Changelog
 
+## [4.7.0](https://github.com/rolehippie/gomplate/compare/v4.6.0...v4.7.0) (2026-10-19)
+
+### Dependencies
+
+* **minor:** update dependency hairyhenderson/gomplate to v5.3.0 ([#81](https://github.com/rolehippie/gomplate/issues/81)) ([c6d36ee](https://github.com/rolehippie/gomplate/commit/c6d36ee137626bc7edb4f3955f7ca3c1e068e997))
+* **mise:** update dependency pipx:ansible-core to v2.21.4 ([#68](https://github.com/rolehippie/gomplate/issues/68)) ([52ce4c5](https://github.com/rolehippie/gomplate/commit/52ce4c5da53dc7783649bd38e593fd8a7b278f58))
+* **mise:** update dependency pipx:ansible-core to v2.21.5 ([#76](https://github.com/rolehippie/gomplate/issues/76)) ([e2570a9](https://github.com/rolehippie/gomplate/commit/e2570a9b95e46bcc2f910d222b51abe6dd8df261))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.2 ([#70](https://github.com/rolehippie/gomplate/issues/70)) ([0194f84](https://github.com/rolehippie/gomplate/commit/0194f847428c7d8b92e2a4cb8e74d897a87610c0))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.3 ([#77](https://github.com/rolehippie/gomplate/issues/77)) ([38be23c](https://github.com/rolehippie/gomplate/commit/38be23ce17f4f56b047ab6603a5023b3586ce799))
+* **mise:** update dependency pipx:ansible-lint to v26.10.0 ([#78](https://github.com/rolehippie/gomplate/issues/78)) ([d8495e5](https://github.com/rolehippie/gomplate/commit/d8495e57042b2eda34e2e75571338607ed9e9231))
+* **mise:** update dependency pipx:ansible-lint to v26.10.1 ([#80](https://github.com/rolehippie/gomplate/issues/80)) ([b9e3ba8](https://github.com/rolehippie/gomplate/commit/b9e3ba8420ae3a26ab66ce3ccceb61c5b03a6e72))
+* **mise:** update dependency pipx:ansible-lint to v26.9.0 ([#71](https://github.com/rolehippie/gomplate/issues/71)) ([f7fff50](https://github.com/rolehippie/gomplate/commit/f7fff5024fc9818aa3c1f417e4d8b0131f1e4100))
+* **mise:** update dependency pipx:molecule to v26.10.0 ([#79](https://github.com/rolehippie/gomplate/issues/79)) ([04f2ff4](https://github.com/rolehippie/gomplate/commit/04f2ff4f8d286e2bb10a7eb4d98a05e77a6e5222))
+* **mise:** update dependency pipx:molecule to v26.9.0 ([#72](https://github.com/rolehippie/gomplate/issues/72)) ([0c9fee5](https://github.com/rolehippie/gomplate/commit/0c9fee5f21c67be0f96a42df2240c98fee284047))
+* **mise:** update dependency prek to v0.5.3 ([#69](https://github.com/rolehippie/gomplate/issues/69)) ([f46afbb](https://github.com/rolehippie/gomplate/commit/f46afbbc48973c8922e007b25a4587ade6da1449))
+* **mise:** update dependency prek to v0.5.4 ([#73](https://github.com/rolehippie/gomplate/issues/73)) ([9b11446](https://github.com/rolehippie/gomplate/commit/9b11446a1df16a7dfe4501dab9afea351f2c1a00))
+* **mise:** update dependency prek to v0.5.5 ([#75](https://github.com/rolehippie/gomplate/issues/75)) ([fba9de5](https://github.com/rolehippie/gomplate/commit/fba9de5b2f91a4c95d0f6ed0e3073d059655668f))
+* **mise:** update dependency prek to v0.5.6 ([#82](https://github.com/rolehippie/gomplate/issues/82)) ([88a7f22](https://github.com/rolehippie/gomplate/commit/88a7f2293e3114e83563cf813cc42eb14cb5f11b))
+
 ## [4.6.0](https://github.com/rolehippie/gomplate/compare/v4.5.1...v4.6.0) (2026-09-07)
 
 ### Features
