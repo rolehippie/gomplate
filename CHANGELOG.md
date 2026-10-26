@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.7.1](https://github.com/rolehippie/gomplate/compare/v4.7.0...v4.7.1) (2026-10-26)
+
+### Dependencies
+
+* **mise:** update dependency prek to v0.5.7 ([#83](https://github.com/rolehippie/gomplate/issues/83)) ([e9632b2](https://github.com/rolehippie/gomplate/commit/e9632b284846b39988b6ff1397b59f11d9daea90))
+* **patch:** update dependency hairyhenderson/gomplate to v5.3.1 ([#84](https://github.com/rolehippie/gomplate/issues/84)) ([6e37233](https://github.com/rolehippie/gomplate/commit/6e3723372e76aa9afdd38b6bdd1df23a784aac30))
+
 ## [4.7.0](https://github.com/rolehippie/gomplate/compare/v4.6.0...v4.7.0) (2026-10-19)
 
 ### Dependencies
